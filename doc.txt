@@ -1,0 +1,61 @@
+AppendTimeStamp to coy code
+
+COMMON PROPERTIES
+PERSON
+USER
+PRODUCTS
+CATEGORY
+SUPPLIER
+COY
+SALES
+
+COMMON PROPERTIES
+id
+name
+date created
+date modified
+
+PERSON
+Email	
+Phone		
+Active	
+Address
+
+USER
+username
+password
+userType
+
+PRODUCTS
+prdCat
+prdSuplier
+prdUnit
+prdLow
+prdImg
+prdPrice
+prdCode
+prdDetails
+prdUnitAvail
+
+CATEGORY
+active
+catDetails
+
+SUPPLIER
+supWebsite
+supCode
+
+COY
+coyLogo
+footer text
+coyDecsription
+coyCode
+
+SALES
+paymentType
+amt
+qty
+transDetail
+
+
+
